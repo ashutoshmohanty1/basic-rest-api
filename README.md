@@ -143,4 +143,4 @@ The API was tested using **Postman** for all CRUD operations.
 
 **Ashutosh Mohanty**
 
-GitHub: https://github.com/ashutoshmohanty1/
+GitHub: https://github.com/ashutoshmohanty1/basic-rest-api
